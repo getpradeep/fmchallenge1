@@ -30,6 +30,7 @@ body{
   background-color: #FFF;
   border-radius: 15px;
   overflow: hidden;
+  align-items: center;
 }
 
 .img img{
